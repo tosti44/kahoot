@@ -2,3 +2,4 @@ This is a Python script that uses some of kitty tools code to get answers and th
 
 You do need to install some stuff there is a file that downloads all and some down here:
 firstly you need python(in microsoft store), git(winget install git.git), pyautogui (pip install pyautogui)
+
