@@ -1,0 +1,44 @@
+{
+    "answers": {
+        "Question 1": "Red",
+        "Question 2": "Blue",
+        "Question 3": "Yellow",
+        "Question 4": "Red",
+        "Question 5": "Yellow",
+        "Question 6": "Green",
+        "Question 7": "Yellow",
+        "Question 8": "Blue",
+        "Question 9": "Red",
+        "Question 10": "Yellow",
+        "Question 11": "Red",
+        "Question 12": "Green"
+    },
+    "questions": {
+        "Question 1": "Munteenheid: Nederland [voorbeeldvraag]",
+        "Question 2": "Oekra\u00efne",
+        "Question 3": "Verenigd Koninkrijk",
+        "Question 4": "Rusland, Wit-Rusland",
+        "Question 5": "Verenigde Staten en Canada",
+        "Question 6": "Japan",
+        "Question 7": "Mexico, Argentini\u00eb, Chili, Colombia",
+        "Question 8": "India",
+        "Question 9": "14 landen in Midden-Afrika (Senegal, Gabon, Togo, Benin, Niger, Mali, Tsjaad, Kameroen, e.a.)",
+        "Question 10": "Frankrijk",
+        "Question 11": "Australi\u00eb en Nieuw-Zeeland",
+        "Question 12": "IJsland, Denemarken, Zweden en Noorwegen"
+    },
+    "images": {
+        "Question 1": "https://media.kahoot.it/31183219-cdab-484a-89bd-7455d08b2ba8",
+        "Question 2": "https://media.kahoot.it/b9f6ae5f-eed6-4e2d-bff6-a6ed656285a4",
+        "Question 3": "https://media.kahoot.it/2bababcb-c88b-4454-bc2c-8a5b268eb2af",
+        "Question 4": "https://media.kahoot.it/a6f27509-b773-4949-baf8-0696083c0f9d",
+        "Question 5": "https://media.kahoot.it/262ee125-0a66-4b75-bbfd-e00cfb68413f",
+        "Question 6": "https://media.kahoot.it/669b6ca7-5b1e-4139-84e0-249ba5a7631a",
+        "Question 7": "https://media.kahoot.it/3e940442-564c-4c2a-9584-72c81e1d513f",
+        "Question 8": "https://media.kahoot.it/6ba9569a-0dc3-4ccd-b473-24a6388cb7f8",
+        "Question 9": "https://media.kahoot.it/4efc44a2-aa70-45ab-9e3b-d5cb7c59def0",
+        "Question 10": "https://media.kahoot.it/affd85f0-e61f-4ae0-9f1a-b8065fc7b7ff",
+        "Question 11": "https://media.kahoot.it/28ad1738-75a7-4ab0-9f8d-74ecb71c67f1_opt",
+        "Question 12": "https://media.kahoot.it/455ac8ee-dc53-4e23-8996-cff86ab4b704"
+    }
+}
