@@ -1,4 +1,4 @@
 import os
 from os import system
-pip install pyautogui
-pip install keyboard
+os.system("pip install pyautogui")
+os.system("pip install keyboard")
