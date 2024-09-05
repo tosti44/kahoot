@@ -3,6 +3,17 @@ import urllib.request
 import pyautogui
 import time
 import keyboard
+from scripts.colors import ran,y,r,g,c
+
+print(f"{g}████████╗    ████████╗")
+print(f"{g}██ ╔════╝         ██═╝")
+print(f"{g}████████╗       ██╔╝")
+print(f"{g}██ ╔════╝     ██╔═╝")
+print(f"{g}████████╗    ████████╗")
+print(f"{g}╚═══════╝    ╚═══════╝")
+print(f"{y}Made by Tosti")
+print(" ")
+print(f"{y}______________________________")
 
 # Define the screen coordinates for each color button
 # Replace these coordinates with the actual positions on your screen
